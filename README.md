@@ -1,4 +1,5 @@
-```markdown
+```
+
 # Image Segmentation Web Application
 
 This is a Flask-based web application for performing image segmentation using a pre-trained model. The application allows users to upload images, performs segmentation, and displays the results interactively.
@@ -6,7 +7,7 @@ This is a Flask-based web application for performing image segmentation using a 
 ## Setup and Installation
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/bthndmn12/zerovision
    cd zerovision
    ```
