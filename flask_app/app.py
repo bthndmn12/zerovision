@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request
-from config import Config
+from flask_app.config import Config
 from transformers import SamModel, SamConfig, SamProcessor
 import torch
 import numpy as np
