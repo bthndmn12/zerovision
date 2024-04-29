@@ -1,4 +1,3 @@
-```
 
 # Image Segmentation Web Application
 
@@ -7,7 +6,7 @@ This is a Flask-based web application for performing image segmentation using a 
 ## Setup and Installation
 
 1. Clone the repository:
-   ```
+```bash 
    git clone https://github.com/bthndmn12/zerovision
    cd zerovision
    ```
@@ -45,6 +44,5 @@ This is a Flask-based web application for performing image segmentation using a 
 ## License
 
 [MIT License](LICENSE)
-```
 
 Feel free to adjust the content as needed for your specific application. This README provides basic information about setting up and using the application, along with details about dependencies and licensing.
