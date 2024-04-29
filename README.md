@@ -1,5 +1,5 @@
 
-# Image Segmentation Web Application
+# Zerovision
 
 This is a Flask-based web application for performing image segmentation using a pre-trained model. The application allows users to upload images, performs segmentation, and displays the results interactively.
 
@@ -44,5 +44,3 @@ This is a Flask-based web application for performing image segmentation using a 
 ## License
 
 [MIT License](LICENSE)
-
-Feel free to adjust the content as needed for your specific application. This README provides basic information about setting up and using the application, along with details about dependencies and licensing.
