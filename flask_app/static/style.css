@@ -45,11 +45,11 @@ body {
     border-radius: 5px;
   }
   .number {
-    font-size: 2em; /* Increase the font size */
-    font-weight: bold; /* Make the text bold */
-    text-align: center; /* Center the text */
+    font-size: 2em; 
+    font-weight: bold;
+    text-align: center;
 }
-  /* Material Design Styles */
+ 
   .material {
     font-family: 'Roboto', sans-serif;
   }

@@ -6,6 +6,7 @@ This is a Flask-based web application for performing image segmentation using a 
 ## Setup and Installation
 
 1. Clone the repository:
+
 ```bash 
    git clone https://github.com/bthndmn12/zerovision
    cd flask_app
